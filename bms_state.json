@@ -14,6 +14,22 @@
       "date": "20260717",
       "cat": "GOLD",
       "price": "295.00",
+      "status": "2"
+    },
+    "ALUC|3152|20260717|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "09:25 AM",
+      "date": "20260717",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "ALUC|3152|20260717|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "09:25 AM",
+      "date": "20260717",
+      "cat": "GOLD",
+      "price": "295.00",
       "status": "3"
     },
     "ALUC|3113|20260717|PLATINUM": {
@@ -30,7 +46,7 @@
       "date": "20260717",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
